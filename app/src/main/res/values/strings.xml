@@ -1,0 +1,32 @@
+<resources>
+    <!--画面タイトル-->
+    <string name="app_name">Android機能学習</string>
+
+
+    <!--単語-->
+    <string name="intent_explicit">明示的インテント</string>
+    <string name="intent_implicit">暗黙的インテント</string>
+    <string name="activity">Activity</string>
+    <string name="services">Service</string>
+    <string name="lifecycle">ライフサイクル</string>
+    <string name="re_show">再表示</string>
+    <string name="log_del">ログ削除</string>
+    <string name="start_service">Start Service</string>
+    <string name="stop_service">Stop Service</string>
+    <string name="bind_service">Bind Service</string>
+    <string name="unbind_service">Unbind Service</string>
+    <string name="Broadcast">Broadcast</string>
+    <string name="Listener">Listener</string>
+    <string name="rice">ご飯を準備する</string>
+    <string name="aidl">AIDL</string>
+    <string name="janken">じゃんけん</string>
+    <string name="janken_other">じゃんけん\nOther</string>
+    <string name="user_name">ユーザー名</string>
+    <string name="mail">メール</string>
+    <string name="url">URL</string>
+    <string name="send">送信</string>
+    <string name="parcel">Parcerable\nDeathRecipient</string>
+
+
+
+</resources>
